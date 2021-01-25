@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "https://cacsfre.github.io/dot-issue/"
 # theme
 theme = "dot"
 # site title
@@ -45,11 +45,11 @@ link = "#"
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-  
+
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-  
+
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "#"
